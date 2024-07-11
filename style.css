@@ -48,6 +48,10 @@ body {
     opacity: 0.6;
 }
 
+.list-tasks {
+    width: 100%;
+}
+
 img {
     height: 25px;
 }
